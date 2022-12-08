@@ -1,0 +1,3 @@
+[submodule "external/MarqueeLabel"]
+	path = external/MarqueeLabel
+	url = https://github.com/cbpowell/MarqueeLabel-ObjC.git
